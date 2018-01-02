@@ -187,7 +187,7 @@ const Header = ({location}: {location: Location}) => (
             href="https://github.com/facebook/react/"
             target="_blank"
             rel="noopener">
-            GitHub
+            Gitlab
             <ExternalLinkSvg
               cssProps={{
                 marginLeft: 5,
